@@ -1,10 +1,10 @@
-# pastime
+# pastimepy
 
-`pastime` is a simple Python package to format `datetime` objects into human-readable strings like "5 minutes ago", "yesterday at 3:00 PM", or "Jan 01, 2024 at 12:00 PM".
+`pastimepy` is a simple Python package to format `datetime` objects into human-readable strings like "5 minutes ago", "yesterday at 3:00 PM", or "Jan 01, 2024 at 12:00 PM".
 
 ## Installation
 ```bash
-pip install pastime
+pip install pastimepy
 ```
 
 ## Usage
